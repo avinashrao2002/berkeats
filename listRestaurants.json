@@ -1,0 +1,2153 @@
+[{
+  "_id": {
+    "$oid": "5ffbbadd3750bb15849524e8"
+  },
+  "categories": [
+    "Tasty"
+  ],
+  "name": "Avinash's Place",
+  "open": true,
+  "stars": 1,
+  "full_address": "Berkeley",
+  "price": 4,
+  "photo_url": "google.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa43"
+  },
+  "categories": [
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "Cafe 3",
+  "open": true,
+  "stars": 2,
+  "full_address": "2400 Durant Ave\nTelegraph Ave\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/AaHq1UzXiT6zDBUYrJ2NKA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa44"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Jasmine Thai",
+  "open": true,
+  "stars": 3,
+  "full_address": "1805 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/ZwTUUb-6jkuzMDBBsUV6Eg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa45"
+  },
+  "categories": [
+    "Fondue",
+    "Restaurants"
+  ],
+  "name": "Fondue Fred",
+  "open": true,
+  "stars": 3,
+  "full_address": "2556 Telegraph Ave\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/07PJUIzisU--faHrNi3vTw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa46"
+  },
+  "categories": [
+    "American (Traditional)",
+    "Restaurants"
+  ],
+  "name": "Peppermint Grill",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2505 Hearst Ave\nSte B\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa47"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Viengvilay Thai Cuisine",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2505 Hearst Ave\nSte G\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa48"
+  },
+  "categories": [
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Happy Valley",
+  "open": true,
+  "stars": 4,
+  "full_address": "2502 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/AsdudePLe4plnylNFjJkEA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa49"
+  },
+  "categories": [
+    "Food",
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Pancho's",
+  "open": true,
+  "stars": 3,
+  "full_address": "2521 Durant Ave\nSte B\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/99A1-1AKURB1vyUOlYiEVQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa4a"
+  },
+  "categories": [
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Peking Express",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2516 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/BPMBr2aiOEpVioLb-RurJQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa4b"
+  },
+  "categories": [
+    "Restaurants",
+    "Vietnamese"
+  ],
+  "name": "Pho K & K",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2533 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/-2BZ6mS1s-3DM5i3-Wl-ow/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa4c"
+  },
+  "categories": [
+    "Indian",
+    "Asian Fusion",
+    "Restaurants"
+  ],
+  "name": "Momo Masala",
+  "open": true,
+  "stars": 4,
+  "full_address": "2505 Hearst Ave\nSte B\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/s-a9v8324SgJHPEpccWAwQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa4d"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "La Cascada Taqueria",
+  "open": true,
+  "stars": 3,
+  "full_address": "2164 Center St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/-Nwor_L01Lsm6Mcf36-QCA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbef3f12a6a16c6bcaa4e"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Free Speech Movement Cafe",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "Moffitt Undergraduate Library\nUC Berkeley Campus Center\nWickson Rd\nUC Campus Area\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/lzCPDwTtxB92hVnSjBbr9Q/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eae"
+  },
+  "categories": [
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Sun Hong Kong Restaurant",
+  "open": true,
+  "stars": 3,
+  "full_address": "2439 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/9Cq_YlvoSN1FxY6DZeLYhA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eaf"
+  },
+  "categories": [
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "Tivoli Caffe",
+  "open": true,
+  "stars": 4.5,
+  "full_address": "2554 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Hh_Ft5TgDfjEPbxoprJ8LQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb0"
+  },
+  "categories": [
+    "Bars",
+    "American (New)",
+    "American (Traditional)",
+    "Nightlife",
+    "Restaurants"
+  ],
+  "name": "Henry's",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "Hotel Durant\n2600 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/2nF-UqvqGs92JPoUrIznmg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb1"
+  },
+  "categories": [
+    "Persian/Iranian",
+    "Restaurants"
+  ],
+  "name": "Alborz",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2142 Center St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/YOmjJWRKPMmgv4ctkNkBoA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb2"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "The Coffee Lab",
+  "open": true,
+  "stars": 4,
+  "full_address": "Hildebrand Hall\nUC Campus Area\nBerkeley, CA 94720",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/WtJT52wSvRU5CqtsL5ajUA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb3"
+  },
+  "categories": [
+    "Italian",
+    "Restaurants"
+  ],
+  "name": "Pasta Bene",
+  "open": true,
+  "stars": 4,
+  "full_address": "2565 Telegraph Ave\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/6CMjvONYO6i5-axxbbwhGg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb4"
+  },
+  "categories": [
+    "Korean",
+    "Restaurants"
+  ],
+  "name": "Gomnaru Restaurant",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2505 Hearst Ave\nSte D\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/EjNgPJZUomnB5XlIUoYSFg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb5"
+  },
+  "categories": [
+    "Creperies",
+    "Restaurants"
+  ],
+  "name": "Crepes A-Go Go",
+  "open": true,
+  "stars": 4,
+  "full_address": "2334 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/HjAUFQwPfkUXB6IYssCSag/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb6"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Taqueria Reyes",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2475 Bancroft Way\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb7"
+  },
+  "categories": [
+    "Korean",
+    "Restaurants"
+  ],
+  "name": "T-Toust",
+  "open": true,
+  "stars": 3,
+  "full_address": "2433 Durant Ave\nSte F\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Q38UG55f5YpPVD31C40HQg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb8"
+  },
+  "categories": [
+    "Asian Fusion",
+    "Restaurants"
+  ],
+  "name": "Durant Square - Asian Ghetto",
+  "open": true,
+  "stars": 4,
+  "full_address": "2519-2521 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/9r3CH_iE1erlsqJg35bMHA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eb9"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "ChiangLai",
+  "open": true,
+  "stars": 3,
+  "full_address": "2505 Hearst Ave\nUC Campus Area\nBerkeley, CA 94701",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/9fnX3IDOYN_ApzBZg3u0UA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eba"
+  },
+  "categories": [
+    "Delis",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Cheese 'N' Stuff",
+  "open": true,
+  "stars": 4,
+  "full_address": "2442 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/nw7klTdCtY0cuDCf7hYScw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ebb"
+  },
+  "categories": [
+    "Food",
+    "Desserts",
+    "Delis",
+    "Coffee & Tea",
+    "Restaurants"
+  ],
+  "name": "Peets Coffee & Tea",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2415 Bowditch St\nTelegraph Ave\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/5AI3qMKbIRFSjPebe0tFOQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ebc"
+  },
+  "categories": [
+    "Bars",
+    "American (Traditional)",
+    "Pubs",
+    "Nightlife",
+    "Sports Bars",
+    "Restaurants"
+  ],
+  "name": "The Bear's Lair Brew Pub",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2475 Bancroft Way\nUC Campus Area\nBerkeley, CA 94702",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/DZNCGDZWC30-oNFNKvfZ2w/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ebd"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "Cafe Milano",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2522 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/R7LBk41UPNh3oTljpDbyjg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ebe"
+  },
+  "categories": [
+    "Hot Dogs",
+    "Fast Food",
+    "Restaurants"
+  ],
+  "name": "Top Dog 2",
+  "open": true,
+  "stars": 4,
+  "full_address": "2503 Hearst Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/8uEBd4feZ5dtGzXo7Zz3NA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ebf"
+  },
+  "categories": [
+    "Caterers",
+    "Fish & Chips",
+    "Event Planning & Services",
+    "Restaurants"
+  ],
+  "name": "Stella Nonna Milwaukee Fish Fry",
+  "open": true,
+  "stars": 4,
+  "full_address": "2316 Haste Ave\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/8WL-AbM_g-rra0PxlTrYkQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec0"
+  },
+  "categories": [
+    "Japanese",
+    "Restaurants"
+  ],
+  "name": "Tako Sushi",
+  "open": true,
+  "stars": 3,
+  "full_address": "2379 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Nu0Jcb2yzMegToOpAvpOog/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec1"
+  },
+  "categories": [
+    "Restaurants",
+    "Vietnamese"
+  ],
+  "name": "Camille",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2507 Hearst Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/FgFixHnSCeAlAAE9jmxlAA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec2"
+  },
+  "categories": [
+    "Restaurants",
+    "Vietnamese"
+  ],
+  "name": "Saigon Eats",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "Lower Sproul Plaza\n2475 Bancroft Way\nUC Campus Area\nBerkeley, CA 94720",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/DB_wI1k5GKYr0tDWvejrUw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec3"
+  },
+  "categories": [
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "T C Garden Restaurant",
+  "open": true,
+  "stars": 3,
+  "full_address": "2507 Hearst Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/v_vEw_Kb7EufdDP1nJ7Npg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec4"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "Babette",
+  "open": true,
+  "stars": 4,
+  "full_address": "2625 Durant Ave\nTelegraph Ave\nBerkeley, CA 94720",
+  "price": 4,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/lEYDhMEvSd6jNnM4tlW8Rw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec5"
+  },
+  "categories": [
+    "Italian",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Pasta-In-A-Box",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2384 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94720",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/9PaWvyzd9PeTlBn-n9--pA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec6"
+  },
+  "categories": [
+    "Food",
+    "Desserts",
+    "Street Vendors",
+    "Food Stands",
+    "Restaurants"
+  ],
+  "name": "Cupkates",
+  "open": true,
+  "stars": 4.5,
+  "full_address": "UC Campus Area\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/dA0nGTlNy9fK_eRuRYxr-A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec7"
+  },
+  "categories": [
+    "Korean",
+    "Restaurants"
+  ],
+  "name": "Bear's Ramen House",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2521 Durant Ave\nTelegraph Ave\nBerkeley, CA 94701",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/BFEn7l4opMgRDeZ6ak7rcQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec8"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Zach's Snacks",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "1873 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ec9"
+  },
+  "categories": [
+    "Sushi Bars",
+    "Restaurants"
+  ],
+  "name": "Sushi House",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2521 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/gUerRnsbkDl8RzRXduH_IQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eca"
+  },
+  "categories": [
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Chinese Express",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2488 Channing Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/osAqCjzpUzVx-3u0HxaHxQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ecb"
+  },
+  "categories": [
+    "American (New)",
+    "Restaurants"
+  ],
+  "name": "Gather",
+  "open": true,
+  "stars": 4,
+  "full_address": "2200 Oxford St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/spcQdylyupt4Dy1fxYJ55A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ecc"
+  },
+  "categories": [
+    "Hot Dogs",
+    "Brazilian",
+    "Food Stands",
+    "Restaurants"
+  ],
+  "name": "Desi Dog by Brazil Cafe",
+  "open": true,
+  "stars": 4,
+  "full_address": "2513 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/EhPjbOjO-iTCMWJWudxCIw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ecd"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "I.B.'s Hoagies",
+  "open": true,
+  "stars": 4,
+  "full_address": "2513 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/sPQYaO5Cda8EzXe-nQejng/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ece"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Remy's Mexican Restaurant",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2506 Haste St\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/lv_iC0jrWi6PD7KqQbGP6w/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ecf"
+  },
+  "categories": [
+    "Greek",
+    "Mediterranean",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Hummingbird Express",
+  "open": true,
+  "stars": 3,
+  "full_address": "1842 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed0"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Racha Cafe",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2516 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/MWcrplNvELU-PW595KiHUw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed1"
+  },
+  "categories": [
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "Berkeley Floor Cafe",
+  "open": true,
+  "stars": 4,
+  "full_address": "2244 Bancroft Way\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/XQU5A7394JNXbcMiUAk04A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed2"
+  },
+  "categories": [
+    "Korean",
+    "Restaurants"
+  ],
+  "name": "Steve's Bar-B-Que",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2521 Durant Ave\nSte F\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/b6uZmdhLE3WX4PHw-Pcx_w/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed3"
+  },
+  "categories": [
+    "Breakfast & Brunch",
+    "Restaurants"
+  ],
+  "name": "Cafe Zeb",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "UC Berkeley Campus\n2745 Bancroft Way\nUC Campus Area\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/SKF40pF2tX5-nl9cC32L7A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed4"
+  },
+  "categories": [
+    "Food",
+    "Juice Bars & Smoothies",
+    "Coffee & Tea",
+    "Asian Fusion",
+    "Restaurants"
+  ],
+  "name": "Quickly",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2915-B Durant Ave\nUC Campus Area\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/kVqLFumeWRtxyKIUsyZUAg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed5"
+  },
+  "categories": [
+    "Food",
+    "Sandwiches",
+    "Delis",
+    "Coffee & Tea",
+    "Restaurants"
+  ],
+  "name": "Hummingbird Cafe",
+  "open": true,
+  "stars": 4,
+  "full_address": "1814 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/SLWiNGQeqbjWBuRDDIH-XQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed6"
+  },
+  "categories": [
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "UCafe",
+  "open": true,
+  "stars": 3,
+  "full_address": "2550 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/i8IHUKqEA3QFBm4hkkVRnQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed7"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Thai Basil Cuisine",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2519 Durant Ave\nSte G\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/hM-6PQPLrB-BVi0G9A2bEg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed8"
+  },
+  "categories": [
+    "Sushi Bars",
+    "Japanese",
+    "Restaurants"
+  ],
+  "name": "C U Sushi",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2152 Center St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/T5aLaIY5gzbs4rVJ7aDK9g/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ed9"
+  },
+  "categories": [
+    "Breakfast & Brunch",
+    "American (Traditional)",
+    "Restaurants"
+  ],
+  "name": "Ann's Kitchen",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2498 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/FhwqCqHzRMDbZcetW1Rxvg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eda"
+  },
+  "categories": [
+    "Burgers",
+    "Fast Food",
+    "Restaurants"
+  ],
+  "name": "Bongo Burger",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "1839 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/2ssOtVLI3VK2qLa82LAFqQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893edb"
+  },
+  "categories": [
+    "Food",
+    "Bakeries",
+    "Vegan",
+    "Restaurants"
+  ],
+  "name": "Cinnaholic",
+  "open": true,
+  "stars": 4.5,
+  "full_address": "2132 Oxford St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/y_V9EmUpB8ESww2en-Kluw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893edc"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "La Burrita",
+  "open": true,
+  "stars": 3,
+  "full_address": "1832 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/qq4tEs4uz0Z7Cb-sYjcw6A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893edd"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Berkeley Thai House",
+  "open": true,
+  "stars": 3,
+  "full_address": "2511 Channing Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/hHtF24aESJe3agsoAEVe3A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ede"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Lotus House",
+  "open": true,
+  "stars": 3,
+  "full_address": "2517A Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/w4ig8KmeCt9wYkeYrDehIA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893edf"
+  },
+  "categories": [
+    "Food",
+    "Beer, Wine & Spirits",
+    "Chicken Wings",
+    "Restaurants"
+  ],
+  "name": "Wing Fiesta",
+  "open": true,
+  "stars": 4,
+  "full_address": "2475 Bancroft Way\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/E3Ar7o6MNCmrdAhws-B06Q/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee0"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Foley's Deli",
+  "open": true,
+  "stars": 5,
+  "full_address": "2312 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/VSh882YnUFyjmhHiitfebg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee1"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Celia's",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "1841 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 4,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/ZdHUTChVX6bsilWdVpBHCA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee2"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "The Toaster Oven",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2309 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/1IirdUSB0yi4TorBV5JPoA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee3"
+  },
+  "categories": [
+    "Music & DVDs",
+    "Books, Mags, Music and Video",
+    "Cafes",
+    "Shopping",
+    "Restaurants"
+  ],
+  "name": "Musical Offering",
+  "open": true,
+  "stars": 4,
+  "full_address": "2430 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Zq2L3mV6Nk1WIfArwjQwcQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee4"
+  },
+  "categories": [
+    "Greek",
+    "Restaurants"
+  ],
+  "name": "Souvlaki Greek Traditional Food",
+  "open": true,
+  "stars": 3,
+  "full_address": "2518b Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/aULXMF8lQd88HRCvq3HR3g/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee5"
+  },
+  "categories": [
+    "American (Traditional)",
+    "Sandwiches",
+    "Salad",
+    "Restaurants"
+  ],
+  "name": "Pat Brown's Grill",
+  "open": true,
+  "stars": 3,
+  "full_address": "University of California\nGenetics and Plant Biology Building\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/PLLKkSj0Hck6dDfOfnRBpw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee6"
+  },
+  "categories": [
+    "Burgers",
+    "Fast Food",
+    "Restaurants"
+  ],
+  "name": "Bongo Burger",
+  "open": true,
+  "stars": 4,
+  "full_address": "2505 Dwight Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/R9En8v3vSH1uYj_Zmzpj6g/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee7"
+  },
+  "categories": [
+    "Korean",
+    "Restaurants"
+  ],
+  "name": "Kimchi Garden",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2517 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/m0kuP3D-jGhh1K9pDATGMQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee8"
+  },
+  "categories": [
+    "Turkish",
+    "Mediterranean",
+    "Restaurants"
+  ],
+  "name": "Turkish Kitchen Express",
+  "open": true,
+  "stars": 4,
+  "full_address": "2395 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/0oE5mDN1irtubPg6_pP_Vg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ee9"
+  },
+  "categories": [
+    "Food",
+    "Hot Dogs",
+    "Asian Fusion",
+    "Food Trucks",
+    "Restaurants"
+  ],
+  "name": "Dojo Dog",
+  "open": true,
+  "stars": 4,
+  "full_address": "2475 Bancroft Way\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/qVILOloweaKGsT9H01Dplw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eea"
+  },
+  "categories": [
+    "Indian",
+    "Restaurants"
+  ],
+  "name": "Indian Flavors Express",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2548 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/boV5vAlj-4ONrO5DiJkApw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eeb"
+  },
+  "categories": [
+    "Food",
+    "Greek",
+    "Coffee & Tea",
+    "Mediterranean",
+    "Restaurants"
+  ],
+  "name": "Nefeli Caffe",
+  "open": true,
+  "stars": 4,
+  "full_address": "1854 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/SO83y51xAMNqE1Gxt1QxyQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eec"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Vinnie's Cheesesteaks",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "1866 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/EZRomqQK0RwqCy2e87PaFQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eed"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Subway",
+  "open": true,
+  "stars": 2,
+  "full_address": "2490 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/DQOEr3nQlEetFpAk0ZWoOA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eee"
+  },
+  "categories": [
+    "Food",
+    "Cafes",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Golden Bear Cafe",
+  "open": true,
+  "stars": 3,
+  "full_address": "Cesar Chavez Student Center\nUpper Sproul Plz\nUC Campus Area\nBerkeley, CA 94701",
+  "price": 3,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/F6QJM3qEV14X65etcz-mlw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eef"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Ramona's Café",
+  "open": true,
+  "stars": 3,
+  "full_address": "UC Berkeley Campus\nWurster Hall\nUC Campus Area\nBerkeley, CA 94720",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/ecHj_-2xQjtzhBB5opKAoQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef0"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Thai Noodle II",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2426 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef1"
+  },
+  "categories": [
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "The Stuffed Inn",
+  "open": true,
+  "stars": 4,
+  "full_address": "1829 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/_AEvNo3gGfcjPjMDbglntg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef2"
+  },
+  "categories": [
+    "Vegetarian",
+    "Vegan",
+    "Restaurants"
+  ],
+  "name": "Saturn Cafe",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2175 Allston Way\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/KHCLBgt2CyvP_J_ZBXL8sg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef3"
+  },
+  "categories": [
+    "Restaurants",
+    "Vietnamese"
+  ],
+  "name": "Le Petit Cheval",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2600 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/FUF_EITsXWMrG3WEO3dJYg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef4"
+  },
+  "categories": [
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Mandarin House",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2519 Durant Avenue Suite A\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/59RZguaJAofg4ENMM1H_4g/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef5"
+  },
+  "categories": [
+    "Cafes",
+    "Restaurants"
+  ],
+  "name": "Jimmie Beans Fifo Cafe",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2220 Piedmont Ave\nUC Campus Area\nBerkeley, CA 94720",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/4WYyMhXMO3jCOzqGJvN3vw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef6"
+  },
+  "categories": [
+    "Korean",
+    "Restaurants"
+  ],
+  "name": "Koryo Restaurant",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2556 Telegraph Ave\nSte 8\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/zcIobaoTT-y4IdjDYiH6sw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef7"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Taqueria El Tacontento",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2475 Bancroft Wy\nUC Campus Area\nBerkeley, CA 94702",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef8"
+  },
+  "categories": [
+    "Middle Eastern",
+    "Restaurants"
+  ],
+  "name": "Sunrise Deli",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2456 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/2xowbms3qBpT5zGp1cZwjw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893ef9"
+  },
+  "categories": [
+    "Hot Dogs",
+    "Fast Food",
+    "Restaurants"
+  ],
+  "name": "Top Dog",
+  "open": true,
+  "stars": 4,
+  "full_address": "2160 Center St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/7fBRFT7dMulaUE6E-0QMFg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893efa"
+  },
+  "categories": [
+    "Pakistani",
+    "Indian",
+    "Halal",
+    "Restaurants"
+  ],
+  "name": "Naan N Curry",
+  "open": true,
+  "stars": 3,
+  "full_address": "2366 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/i1yhX4aNfRgTOTuurWxpaQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893efb"
+  },
+  "categories": [
+    "Pubs",
+    "Bars",
+    "American (Traditional)",
+    "Nightlife",
+    "Restaurants"
+  ],
+  "name": "Freehouse",
+  "open": true,
+  "stars": 3,
+  "full_address": "2700 Bancroft Way\nUC Campus Area\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/MSDVALDMWDbYYhfnwy7G4A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893efc"
+  },
+  "categories": [
+    "Pizza",
+    "Restaurants"
+  ],
+  "name": "La Val's Pizza",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "1834 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/m7_y0Xsf_9yzli5aLEnquQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893efd"
+  },
+  "categories": [
+    "Breakfast & Brunch",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Northside Cafe",
+  "open": true,
+  "stars": 4,
+  "full_address": "1878 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/OmAP2UocHcTMRmQR9WDlfw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893efe"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "La Burrita",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2530 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/BTGk7lmjNkn58Q27rAnlWw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893eff"
+  },
+  "categories": [
+    "Food",
+    "Desserts",
+    "Food Stands",
+    "Restaurants"
+  ],
+  "name": "The Little Dipper Chocolate Company",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "Bancroft and Telegraph\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f00"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Cafes",
+    "Breakfast & Brunch",
+    "Restaurants"
+  ],
+  "name": "International House Cafe",
+  "open": true,
+  "stars": 3,
+  "full_address": "2299 Piedmont Ave\nUC Campus Area\nBerkeley, CA 94720",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/l3QtNp46L7u7LILGmT8aBg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f01"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Taco Truck",
+  "open": true,
+  "stars": 4,
+  "full_address": "Telegraph Avenue and Bancroft Way\nUC Campus Area\nBerkeley, CA 94720",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/8ViThGUYgMq0ZIcGw3gOKw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f02"
+  },
+  "categories": [
+    "Pakistani",
+    "Indian",
+    "Restaurants"
+  ],
+  "name": "Punjabi By Nature",
+  "open": true,
+  "stars": 3,
+  "full_address": "2136 Oxford St\nDowntown Berkeley\nBerkeley, CA 94701",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/zDhR65nRicsGU2uDodvAog/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f03"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Gordo Taqueria",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2404 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94702",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/te2O5Y1SjVPdz9u8DiiiFQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f04"
+  },
+  "categories": [
+    "Mediterranean",
+    "Restaurants"
+  ],
+  "name": "Cal Gyro Mediterranean",
+  "open": true,
+  "stars": 3,
+  "full_address": "2519 Durant Ave\nSte C\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Q1XfBhRg1FWhzcNMwtadlg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f05"
+  },
+  "categories": [
+    "African",
+    "Caribbean",
+    "Restaurants"
+  ],
+  "name": "Suya African Caribbean Grill",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2130 Oxford St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/AefhKEvZnL4Ehx1qo3ImdQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f06"
+  },
+  "categories": [
+    "Fast Food",
+    "Indian",
+    "Restaurants"
+  ],
+  "name": "Urbann Turbann",
+  "open": true,
+  "stars": 4,
+  "full_address": "1870 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/7v70qoi1Ny48jRu1YoQ8Pg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f07"
+  },
+  "categories": [
+    "Bars",
+    "Nightlife",
+    "Restaurants",
+    "Sports Bars",
+    "Barbeque",
+    "Sandwiches"
+  ],
+  "name": "Pappy's Grill & Sports Bar",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2367 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/0pGiyp0yotd2rtd2pF58uA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f08"
+  },
+  "categories": [
+    "Food",
+    "Delis",
+    "Coffee & Tea",
+    "Convenience Stores",
+    "Restaurants"
+  ],
+  "name": "Cafe Rio",
+  "open": true,
+  "stars": 3,
+  "full_address": "2146 Center St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/ByvimkcwVRGItrL8CXheIg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f09"
+  },
+  "categories": [
+    "Mediterranean",
+    "Restaurants"
+  ],
+  "name": "D'Yar",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2511 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/6gkkJgYtO6cDRDltYrRkwg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f0a"
+  },
+  "categories": [
+    "Japanese",
+    "Restaurants"
+  ],
+  "name": "Aki Japanese Restaurant",
+  "open": true,
+  "stars": 3,
+  "full_address": "2505 Hearst Ave\nSte C\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/IaFpY8fM9dSYMYgEIFHB5w/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f0b"
+  },
+  "categories": [
+    "Restaurants",
+    "Hot Dogs"
+  ],
+  "name": "Top Dog",
+  "open": true,
+  "stars": 4.5,
+  "full_address": "2534 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/nFfca2I2F0Az2JmGQmAipg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f0c"
+  },
+  "categories": [
+    "Pizza",
+    "Restaurants"
+  ],
+  "name": "Blondie's Pizza",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2340 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/iWd8lAs3zRv3KsaOukJT6w/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f0d"
+  },
+  "categories": [
+    "Breakfast & Brunch",
+    "Restaurants"
+  ],
+  "name": "The Sunny Side Café",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2136 Oxford St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 3,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/NMgMutTLuSShNGQYt9NRJQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f0e"
+  },
+  "categories": [
+    "Food",
+    "Beer, Wine & Spirits",
+    "Grocery",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Sam's Market",
+  "open": true,
+  "stars": 4,
+  "full_address": "2312 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/d-Th2U-VmmUzDwxlxgkEVg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f0f"
+  },
+  "categories": [
+    "Sushi Bars",
+    "Restaurants"
+  ],
+  "name": "Joshu-Ya Brasserie",
+  "open": true,
+  "stars": 4,
+  "full_address": "2441 Dwight Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 4,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/YO9VEDg2pGLtHxA4g7hrtQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f10"
+  },
+  "categories": [
+    "Burgers",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Smart Alec's Intelligent Food",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2355 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/mvRlBcAO6b97L1Dw7xIr9g/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f11"
+  },
+  "categories": [
+    "Persian/Iranian",
+    "Cafes",
+    "Mediterranean",
+    "Restaurants"
+  ],
+  "name": "Planet Kebob & Cafe",
+  "open": true,
+  "stars": 4.5,
+  "full_address": "2431 A  Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/TlgDR0OeiB-IywL-9bqUqg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f12"
+  },
+  "categories": [
+    "American (New)",
+    "Restaurants"
+  ],
+  "name": "The Melt Berkeley",
+  "open": true,
+  "stars": 3,
+  "full_address": "2400 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Z3LHo26L57Xiuyw9EnX_iQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f13"
+  },
+  "categories": [
+    "Thai",
+    "Restaurants"
+  ],
+  "name": "Satay House",
+  "open": true,
+  "stars": 4,
+  "full_address": "2519 Durant Ave\nSte B\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/jRjjXhEPK_sPNQ7N4x4ytw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f14"
+  },
+  "categories": [
+    "American (New)",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Manhattan Roast & Grill",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2518-A Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/B5btm0moZHRjYH64RqitJg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f15"
+  },
+  "categories": [
+    "Dim Sum",
+    "Chinese",
+    "Restaurants"
+  ],
+  "name": "Chang Luong Restaurant",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2517 Durant Ave\nSte D 2nd Fl\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/cM3Nuc5KnRB1vleYyIN1jg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f16"
+  },
+  "categories": [
+    "Specialty Food",
+    "Ethnic Food",
+    "Mexican",
+    "Food",
+    "Restaurants"
+  ],
+  "name": "Celia's Mexican Catering",
+  "open": true,
+  "stars": 4.5,
+  "full_address": "1841 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 3,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/6gZoxzZY-hZEBqZ-oUt7BQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f17"
+  },
+  "categories": [
+    "Restaurants",
+    "Vietnamese"
+  ],
+  "name": "The Pho Bar",
+  "open": true,
+  "stars": 3,
+  "full_address": "1828 Euclid Ave\nUC Campus Area\nBerkeley, CA 94709",
+  "price": 3,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/-fwpjcFhKvH6z7p3gen2Sw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f18"
+  },
+  "categories": [
+    "Burgers",
+    "American (Traditional)",
+    "Fast Food",
+    "Restaurants"
+  ],
+  "name": "KoKo Express",
+  "open": true,
+  "stars": 3,
+  "full_address": "2433F Durant Ave\nTelegraph Ave\nBerkeley, CA 94701",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f19"
+  },
+  "categories": [
+    "Buffets",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Crossroads",
+  "open": true,
+  "stars": 3,
+  "full_address": "2415 Bowditch St\nTelegraph Ave\nBerkeley, CA 94701",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/QNF7aAkMZxdIUFr1cX-LzQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f1a"
+  },
+  "categories": [
+    "Italian",
+    "Restaurants"
+  ],
+  "name": "Gypsy's Trattoria Italiano",
+  "open": true,
+  "stars": 4,
+  "full_address": "2519 Durant Ave\nSte A\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/ElwrHiFgpkmIvwIwZN32SA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f1b"
+  },
+  "categories": [
+    "Pakistani",
+    "Indian",
+    "Restaurants"
+  ],
+  "name": "House of Curries",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2520 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/TMnV2DYDv6zqzbbiOPMOmw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f1c"
+  },
+  "categories": [
+    "Food",
+    "Bakeries",
+    "Turkish",
+    "Restaurants"
+  ],
+  "name": "Julie's Healthy Cafe",
+  "open": true,
+  "stars": 2.5,
+  "full_address": "2562 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/a1UE1fKCPcIVZpw4lImIzg/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f1d"
+  },
+  "categories": [
+    "Food",
+    "Burgers",
+    "Coffee & Tea",
+    "Restaurants"
+  ],
+  "name": "Sweetheart Cafe",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2523 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/kUeeBL48D6GuH1e8NyBzaw/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f1e"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "Cafe Espresso Experience",
+  "open": true,
+  "stars": 4,
+  "full_address": "2440 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Yn8jvkbGnwiTy02j-Cf_TA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f1f"
+  },
+  "categories": [
+    "Breakfast & Brunch",
+    "American (Traditional)",
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Cafe Durant",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2517 Durant Ave\nSte C\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/ngW3u47q-rmJacKI0g196g/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f20"
+  },
+  "categories": [
+    "Mediterranean",
+    "Restaurants"
+  ],
+  "name": "Mediterraneam Caffe",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2475 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/9ncGbEf6_UUw8ZnEWBHyHQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f21"
+  },
+  "categories": [
+    "Food",
+    "Coffee & Tea",
+    "Restaurants"
+  ],
+  "name": "Caffe Mediterraneum",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2475 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Uhd3DMeJH3Ls9onI6wGNEA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f22"
+  },
+  "categories": [
+    "Pizza",
+    "Restaurants"
+  ],
+  "name": "Fat Slice Pizza",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2375 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media3.ak.yelpcdn.com/bphoto/yQ8xu8Cx4KM3SEfePEad_A/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f23"
+  },
+  "categories": [
+    "Restaurants",
+    "Vietnamese"
+  ],
+  "name": "Viet Nam Village Restaurant",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2521 Durant Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/u3KBJd7u2SakpdknaFr1lQ/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f24"
+  },
+  "categories": [
+    "Restaurants"
+  ],
+  "name": "Coffee Source",
+  "open": true,
+  "stars": 2,
+  "full_address": "2404 Telegraph Avenue\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/924a6444ca6c/gfx/blank_biz_medium.gif",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f25"
+  },
+  "categories": [
+    "Fast Food",
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "Chipotle Mexican Grill",
+  "open": true,
+  "stars": 3,
+  "full_address": "2311 Telegraph Ave\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/xOTrsHOnDHi4flRHUp9DOA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f26"
+  },
+  "categories": [
+    "Burgers",
+    "Fast Food",
+    "Restaurants"
+  ],
+  "name": "Bongo Burger",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2154 Center St\nDowntown Berkeley\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/UId6oSl_N8aNCmzfj2LRSA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f27"
+  },
+  "categories": [
+    "Soup",
+    "Sandwiches",
+    "Restaurants"
+  ],
+  "name": "San Francisco Soup Company",
+  "open": true,
+  "stars": 3.5,
+  "full_address": "2512 Bancroft Way\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 2,
+  "photo_url": "http://s3-media1.ak.yelpcdn.com/bphoto/qkP5RnByL9QmZALCamesDA/ms.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffbbff4c93e6516e0893f28"
+  },
+  "categories": [
+    "Mexican",
+    "Restaurants"
+  ],
+  "name": "La Fiesta Mexican Restaurant",
+  "open": true,
+  "stars": 4,
+  "full_address": "2506 Haste Street\nTelegraph Ave\nBerkeley, CA 94704",
+  "price": 1,
+  "photo_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Oc_K478igogZHKwvBjBc8g/ms.jpg",
+  "__v": 0
+}]
