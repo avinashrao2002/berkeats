@@ -1,5 +1,5 @@
 type Query {
-  info: String!,
+  info: String!
   restaurants: [Restaurant!]
   getRestaurantByName(name: String!): Restaurant!
 }
@@ -10,17 +10,26 @@ type Player {
 }
 
 type Restaurant {
+  name: String!
+  open: Boolean!
+  categories: [String!]!
+  stars: Float
+  full_address: String!
+  photo_url: String!
+  price: Float
+  
+}
+
+type Mutation {
+  createPlayer(name: String!): Player!
+  getPlayer(name: String!): Player!
+  createRestaurant(
     name: String!
     open: Boolean!
     categories: [String!]!
     stars: Float
     full_address: String!
     photo_url: String!
-    price: Float
-}
-
-type Mutation {
-  createPlayer(name: String!): Player!
-  getPlayer(name: String!): Player!
-  createRestaurant(name: String!, open: Boolean!, categories: [String!]!, stars: Float, full_address: String!, photo_url: String!, price: Float!): Restaurant!
+    price: Float!
+  ): Restaurant!
 }

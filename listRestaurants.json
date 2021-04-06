@@ -1,19 +1,5 @@
 [{
   "_id": {
-    "$oid": "5ffbbadd3750bb15849524e8"
-  },
-  "categories": [
-    "Tasty"
-  ],
-  "name": "Avinash's Place",
-  "open": true,
-  "stars": 1,
-  "full_address": "Berkeley",
-  "price": 4,
-  "photo_url": "google.com",
-  "__v": 0
-},{
-  "_id": {
     "$oid": "5ffbbef3f12a6a16c6bcaa43"
   },
   "categories": [
